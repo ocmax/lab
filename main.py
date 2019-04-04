@@ -1,2 +1,3 @@
-a=input('Введите A: ')
-b=input('Введите B: ')
+a=int(input('Введите A: '))
+b=int(input('Введите B: '))
+print ('A + B = ', a+b)
